@@ -15,16 +15,15 @@ This is a simple autocomplete for cities and wiktionary words.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/x_i4mX?referralCode=t96gPh)
 
-- Create an account
+- Follow directions on the Railway website, until you get to the "Environment Variables" section.
 - Go to the [Discord Developer Portal](https://discord.com/developers/applications) and sign in
 - Create a new application.
 - Then go to the Bot tab and click "Add Bot".
-- Reset the token and paste it in the `config.json` file.
+- Reset the token and paste it in the `token` textbox.
 - Go to the OAuth2 tab and select the "bot" scope.
 - Copy the link and paste it in your browser.
 - Invite the bot to your server.
-- Run the bot by typing `python3 main.py` in the terminal.
-- Enjoy!
+- Click deploy and enjoy!
 
 ### Running Locally:
 
