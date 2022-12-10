@@ -11,7 +11,7 @@ This is a simple autocomplete for cities and wiktionary words.
 
 ## How to Use
 
-### Running on the Cloud
+### Running on the Cloud (Requires GitHub account)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/x_i4mX?referralCode=t96gPh)
 
